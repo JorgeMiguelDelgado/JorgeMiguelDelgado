@@ -1,4 +1,4 @@
-### Hi there 👋
+### <h1><b>Ciao, 👋 Sono uno studente che ama lo sviluppo web e lo sviluppo di applicazioni mobili</b></h1>
 
 <!--
 **JorgeMiguelDelgado/JorgeMiguelDelgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
