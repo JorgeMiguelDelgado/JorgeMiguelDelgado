@@ -1,4 +1,4 @@
-### <h1><center><b>Ciao, 👋 Sono uno studente che ama lo sviluppo web e lo sviluppo di applicazioni mobili</b></center></h1>
+### Hi 👋, I'm Jorge
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JorgeMiguelDelgado" alt="JorgeMiguelDelgado" /> </p>
