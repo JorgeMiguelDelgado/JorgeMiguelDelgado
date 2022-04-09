@@ -11,7 +11,7 @@
 - ⚡ Fun fact: **waiter and painter**
 - 
 ### Talk with me:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pierina-montalva-fatur/)]https://www.linkedin.com/in/jorge-miguel-delgado-35387b16a/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-miguel-delgado-35387b16a//)]
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:ing.delgadojorge@gmail.com)
 
 <p align="left"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40"/>
