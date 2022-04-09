@@ -7,9 +7,9 @@
 - 🔭 I’m studying on [UAJMS](http://www.uajms.edu.bo)
 - 🌱 I’m currently learning **Flutter, Python, Laravel**
 - 📫 How to reach me: **ing.delgadojoorge@gmail.com**
-- 😄 Pronouns: **Negro**
-- ⚡ Fun fact: **waiter and painter**
-- 
+- 😄 Pronouns: **George**
+- ⚡ Fun fact: **Fishing**
+
 
 
 <p align="left"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40"/>
