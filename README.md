@@ -6,7 +6,7 @@
 
 - 🔭 I’m studying on [UAJMS](http://www.uajms.edu.bo)
 - 🌱 I’m currently learning **Flutter, Python, Laravel**
-- 📫 How to reach me: **ing.delgadojoorge@gmail.com**
+- 📫 How to reach me: **ing.delgadojorge@gmail.com**
 - 😄 Pronouns: **George**
 - ⚡ Fun fact: **Fishing**
 
