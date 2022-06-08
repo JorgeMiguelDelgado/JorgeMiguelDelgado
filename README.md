@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m studying on [UAJMS](http://www.uajms.edu.bo)
-- 🌱 I’m currently learning **Flutter, Python, Laravel**
+- 🌱 I’m currently learning **Flutter, Vue, Laravel**
 - 📫 How to reach me: **ing.delgadojorge@gmail.com**
 - 😄 Pronouns: **George**
 - ⚡ Fun fact: **Fishing**
@@ -14,9 +14,13 @@
 
 <p align="left"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
+  
    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/></p>
+  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="vue.js" width="40" height="40"/>
+  
+</p>
   
   
   
